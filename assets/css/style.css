@@ -72,6 +72,7 @@ color: #ccc;
 background: #666666;
 position: sticky;
 bottom: 3px;
+vertical-align: baseline;
 }
 
 /* body */
