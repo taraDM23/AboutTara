@@ -24,10 +24,9 @@ li {
     list-style: none;
     margin: 2px;
     border-right: solid 1px lightgrey;
-    padding-right: 5px;
+    padding-right: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    
 }
 
 #link3 {
@@ -36,12 +35,12 @@ li {
 
 a {
     text-decoration: none;
-    color: #cccccc;
+    color:grey;
 }
 
 h1 {
 font-family: Georgia, 'Times New Roman', Times, serif;
-padding: 11px;
+padding: 15px 11px 15px 11px;
 color: #ffffff;
 background: #4aaaa5;
 margin-left: 0px;
@@ -57,6 +56,7 @@ margin-right: 0px;
 margin-bottom: 0px;
 margin-top: 0px;
 margin-left: 60%;
+color: grey;   
 
 }
 
@@ -136,6 +136,8 @@ hr {
 #bio-image {
     float: left;
     padding-right: 8px;
+    height: 200px;
+    width: 200px;
 }
 
 
