@@ -72,10 +72,12 @@ margin-top: 20px;
 border-top: solid #4aaaa5 8px;
 color: #ccc;
 background: #666666;
-position: sticky;
-bottom: 3px;
+position: fixed;
+bottom: 0px;
 vertical-align: baseline;
+width: 100%;
 }
+
 
 /* body */
 .wrapper {
